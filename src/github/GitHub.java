@@ -6,7 +6,7 @@ public class GitHub {
 
 
     public static void main(String[] args) {
-       String hola ="hola mundo";
+       String hola ="hola mundo cruel";
        
        nuevo(hola);
     }
